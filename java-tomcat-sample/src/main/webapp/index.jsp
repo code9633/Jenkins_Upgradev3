@@ -6,6 +6,6 @@
     </head>
     <body>
         <h1>Jenkins + Tomcat  <span class="badge text-bg-secondary">Devops</span></h1>
-        <h3>Modified the Build Pipeline to Dev -> Prod</h3>
+        <h3>Modified the Build Pipeline Stagin Env to Prod Env</h3>
     </body>
 </html>
